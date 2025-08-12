@@ -2,7 +2,7 @@
 # Hi there and Welcome! 👋, I'm Akorede Bolujoko
 
 I'm a Frontend Developer with a passion for creating clean, responsive, and user-friendly web experiences.  
-I specialize in building scalable frontend solutions and integrating backend APIs.
+I specialize in building scalable frontend solutions and integrating APIs.
 
 ## 🛠 Technologies & Tools
 Languages: HTML, CSS, JavaScript  
