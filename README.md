@@ -13,8 +13,8 @@ Hosting & Deployment: Vercel, Netlify
 
 ## 🚀 Projects
 - [Vortex Ai](https://vortex7.vercel.app) – AI chatbot with real-time responses  
-- [Portfolio Website](https://akorede.vercel.app) – My personal developer portfolio  
-- [Custom Website](https://cybertrix.vercel.app) – My personal developer portfolio  
+- [My Portfolio](https://akorede.vercel.app) – My personal developer portfolio  
+- [Custom Website](https://cybertrix.vercel.app) – A Custom .org. website.
 - School Website – Functional platform for academic institutions, and other projects.
 
 ## 📫 How to Reach Me
